@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: LambdaFunctionHandler
+Class-Path: com.blog.samples.lambda
+
